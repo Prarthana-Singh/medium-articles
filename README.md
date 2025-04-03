@@ -5,7 +5,7 @@ Welcome to my **Medium Articles Repository**! Here, you'll find links to all my 
 ## 📌 **About**  
 This repository serves as a central place to store and organize links to my Medium blogs. If you're interested in coding, technology, or learning new concepts, this is the perfect place for you!  
 
-## 🔗 **Articles List**    
+## 🔗 **Articles List**     
 1️⃣ [Python vs Other Languages – A Beginner’s Guide](https://medium.com/@prarthanasingh/python-vs-other-programming-languages-which-one-should-you-learn-1e0855673ced)   
 2️⃣ [Understanding the Key Differences Between List, Tuple, Set, and Dictionary in Python](https://medium.com/@prarthanasingh/understanding-the-key-differences-between-list-tuple-set-and-dictionary-in-python-99344beddff5)  
 3️⃣ [From Straight Lines to Curves: Mastering Polynomial Regression](https://medium.com/@prarthanasingh/from-straight-lines-to-curves-mastering-polynomial-regression-d423fc07965a)  
